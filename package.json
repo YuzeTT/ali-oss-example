@@ -1,0 +1,13 @@
+{
+  "name": "ali-oss-example",
+  "version": "1.0.0",
+  "description": "OSS阿里云对象存储-示例",
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "^6.17.1",
+    "dotenv": "^16.0.3"
+  }
+}
